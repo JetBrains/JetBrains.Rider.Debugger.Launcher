@@ -1,0 +1,13 @@
+# use glob syntax
+syntax: glob
+
+*.obj
+
+[Bb]in
+[Dd]ebug*/
+obj/
+[Rr]elease*/
+_ReSharper*/
+
+.idea/
+*.iml
